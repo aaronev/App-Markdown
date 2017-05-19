@@ -1,0 +1,19 @@
+{
+  "name": "app-markdown",
+  "version": "1.0.0",
+  "description": "implementing a markdown/html renderer app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronev/App-Markdown.git"
+  },
+  "author": "Aaron Villanueva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronev/App-Markdown/issues"
+  },
+  "homepage": "https://github.com/aaronev/App-Markdown#readme"
+}
