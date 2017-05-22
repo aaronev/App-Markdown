@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aaronev/App-Markdown/issues"
   },
-  "homepage": "https://github.com/aaronev/App-Markdown#readme"
+  "homepage": "https://github.com/aaronev/App-Markdown#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
